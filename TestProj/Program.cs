@@ -9,6 +9,8 @@ namespace TestProj
         {
             Console.WriteLine("Arnold!");
 
+            Console.WriteLine(GetDate());
+
             Console.Read();
         }
     }
